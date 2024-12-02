@@ -23,4 +23,5 @@ spec:
   dependsOn:
     - resource:default/alif-db
   dependencyOf:
-    - component:default/alif-web-lookup
+    - component:default/first-monorepo
+    - component:example-website
